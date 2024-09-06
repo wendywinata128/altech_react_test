@@ -37,7 +37,7 @@ export default function Navbar({ onLoginClicked }) {
           } md:mb-0`}
           onClick={() => setShowMenuMobile(!showMenuMobile)}
         >
-          <div className="logo font-bold text-3xl font-mono">Altech</div>
+          <a href="#hero" className="logo font-bold text-3xl font-mono">Altech</a>
 
           <button className="text-3xl md:hidden">
             <IoMenu />
