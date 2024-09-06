@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/altech_react_test/static/css/main.3789ec79.css",
-    "main.js": "/altech_react_test/static/js/main.1c34f416.js",
+    "main.css": "/altech_react_test/static/css/main.c8efecd7.css",
+    "main.js": "/altech_react_test/static/js/main.f5734261.js",
     "static/js/453.f25d35a1.chunk.js": "/altech_react_test/static/js/453.f25d35a1.chunk.js",
     "static/media/undraw_need_help.svg": "/altech_react_test/static/media/undraw_need_help.f9614db9b17923b292c9b9a5f906727c.svg",
     "static/media/undraw_online.svg": "/altech_react_test/static/media/undraw_online.c4021922c5901c2461d617a973c62493.svg",
     "static/media/undraw_online_transactions.svg": "/altech_react_test/static/media/undraw_online_transactions.f647428f67ac963e2b70bf1f748876b3.svg",
     "index.html": "/altech_react_test/index.html",
-    "main.3789ec79.css.map": "/altech_react_test/static/css/main.3789ec79.css.map",
-    "main.1c34f416.js.map": "/altech_react_test/static/js/main.1c34f416.js.map",
+    "main.c8efecd7.css.map": "/altech_react_test/static/css/main.c8efecd7.css.map",
+    "main.f5734261.js.map": "/altech_react_test/static/js/main.f5734261.js.map",
     "453.f25d35a1.chunk.js.map": "/altech_react_test/static/js/453.f25d35a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3789ec79.css",
-    "static/js/main.1c34f416.js"
+    "static/css/main.c8efecd7.css",
+    "static/js/main.f5734261.js"
   ]
 }
