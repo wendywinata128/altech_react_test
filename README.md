@@ -31,3 +31,10 @@ Saya membagi struktur dari aplikasi pada beberapa folder.
 3. Utils -> Utils dari aplikasi seperti global function.
 4. Assets -> Assets yang digunakan dalam aplikasi.
 
+##  Section Aplikasi
+1. Hero -> Bagian utama dalam aplikasi, saya memilih menaruh slogan ditambah dengan alasan mengapa ERP ini harus di pilih.
+2. Pricing -> Saya menampilkan Tier dalam bentuk card, user dapat dengan mudah melihat dan membandingkan perbedaan dari masing-masing Tier.
+3. Contact -> Saya menampilkan contact us dalam bentuk section tersendiri dan men-highlight bagian tersebut agar user dapat dengan mudah melihat berbagaimacam kontak dari perusahaan.
+4. About -> Untuk About, saya menggunakan Footer untuk menampilkan informasi perusahaan, beserta contoh-contoh link yang mungkin dimiliki perusahaan.
+5. Login -> Saya menampilkan login dalam bentuk dialog untuk memudahkan user dalam mengakses login dengan cepat.
+
